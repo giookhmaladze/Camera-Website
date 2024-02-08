@@ -1,0 +1,37 @@
+@media (max-width: 700px){
+    .font{
+        display: none;
+    }
+    .cart-icon{
+        height: 35px;
+    }
+    .ig-logo{
+        height: 35px;
+    }
+}
+@media (max-width: 600px){
+    .imag{
+        padding: 80px;
+    }
+}
+@media (max-width: 500px){
+    
+    .imag{
+        padding: 60px;
+    }
+}
+@media (max-width: 426px){
+    .cart-icon{
+        height: 25px;
+    }
+    .ig-logo{
+        height: 25px;
+    }
+    .logo{
+        width: 60px;
+    }
+    .knopk{
+        font-size: 15px;
+        height: 60px;
+    }
+}
